@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "galileo",
+  "version": "0.1.0",
+  "description": "A sample graphql application.",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^16.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0"
+  },
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoazevedos/galileo.git"
+  },
+  "keywords": [
+    "galileo"
+  ],
+  "author": "Diogo Azevedo <diogoazevedos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoazevedos/galileo/issues"
+  },
+  "homepage": "https://github.com/diogoazevedos/galileo#readme"
+}
