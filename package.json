@@ -5,7 +5,11 @@
   "description": "A sample graphql application.",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^16.0.2"
+    "graphql": "^0.8.2",
+    "graphql-server-hapi": "^0.4.3",
+    "graphql-tools": "^0.8.4",
+    "hapi": "^16.0.2",
+    "lodash": "^4.17.2"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
